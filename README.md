@@ -1,8 +1,7 @@
-# Prakathi Vanarasa - Software Development Engineer
+# Prakathi Vanarasa - Software Development Engineer !(location)(/images/image1.png)
 
 ## Contact Information:
 - **Email**: prakathiv2@gmail.com
-- **Phone**: +91 8778732084
 - **GitHub**: [Prakathi23](https://github.com/Prakathi23)
 - **LinkedIn**: [Prakathi Vanarasa](http://www.linkedin.com/in/prakathi-vanarasa-2b5516288)
 
